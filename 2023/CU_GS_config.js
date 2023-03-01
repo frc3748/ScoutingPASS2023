@@ -19,6 +19,7 @@ var config_data = `
       "type": "event",
       "defaultValue": "2023isde2",
       "required": "true",
+      "disabled": "false"
     },
     { "name": "Match Level",
       "code": "l",
