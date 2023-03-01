@@ -18,7 +18,7 @@ var config_data = `
       "gsCol": "event",
       "type": "event",
       "defaultValue": "2023isde2",
-      "required": "true",
+      "required": "true"
     },
     { "name": "Match Level",
       "code": "l",
