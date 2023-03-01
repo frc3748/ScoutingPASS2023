@@ -14,8 +14,6 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "size": 8,
-      "maxSize": 8,
       "defaultValue": "2023isde2",
       "required": "true",
     },

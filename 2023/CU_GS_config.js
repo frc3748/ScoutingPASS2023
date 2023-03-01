@@ -17,8 +17,6 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "size": 8,
-      "maxSize": 8,
       "defaultValue": "2023isde2",
       "required": "true",
     },
