@@ -6,6 +6,7 @@ var config_data = `
   "enable_google_sheets": "true",
   "prematch": [
     { "name": "Scouter Initials",
+      "gsCol": "scouter",
       "code": "s",
       "gsCol": "scouter",
       "type": "scouter",
